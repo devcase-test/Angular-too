@@ -1,1 +1,1 @@
-# Angular-too
+Dummy template
